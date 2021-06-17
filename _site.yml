@@ -1,12 +1,25 @@
-name: "My Website 2"
-title: "My Website"
+name: "Meine Website"
+title: "Meine Website"
 description: |
-  My Website
+  Meine Website
 output_dir: "_site"
 navbar:
+logo:
+  search: true
   right:
     - text: "Home"
       href: index.html
+    - text: "Analyse"
+      href: analyse.html
+    - text: "Datensaetze"
+      href: datensaetze.html
+    - text: "Artikel"
+      menu:
+       - text: "Eigene Artikel"
+         href: eigene_artikel.html
+       - text: "---"
+       - text: "Artikel Dritter"
+         href: artikel_dritter.html
     - text: "About"
       href: about.html
 output: distill::distill_article

@@ -1,7 +1,7 @@
 ---
-title: "About this site"
+title: "About"
 description: |
-  Some additional details about the website
+  Hier findest du Infos zur Kontaktaufnahme, Adressen und andere wichtige Infos
 ---
 
 ```{r setup, include=FALSE}

@@ -2,19 +2,51 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "title": "About",
+      "description": "Hier findest du Infos zur Kontaktaufnahme, Adressen und andere wichtige Infos",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-06-16T10:06:03+02:00"
+      "last_modified": "2021-06-17T18:20:51+02:00"
+    },
+    {
+      "path": "analyse.html",
+      "title": "Analyse",
+      "description": "Hier findest du Analysen der Datensaetze\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-06-17T18:20:52+02:00"
+    },
+    {
+      "path": "artikel_dritter.html",
+      "title": "Artikel Dritter",
+      "description": "Eine Liste an Artikeln Dritter\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-06-17T18:20:53+02:00"
+    },
+    {
+      "path": "datensaetze.html",
+      "title": "Datensaetze",
+      "description": "Hier findest du verschiedene Datensaetze\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-06-17T18:20:53+02:00"
+    },
+    {
+      "path": "eigene_artikel.html",
+      "title": "Eigene Artikel",
+      "description": "Eine Liste an eigen verfassen Artikeln zu unterschidelichen Themen\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-06-17T18:20:54+02:00"
     },
     {
       "path": "index.html",
-      "title": "My Website",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "title": "My Website 2.0",
+      "description": "Herzlich willkommen auf meiner Website 2.0!\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-06-16T10:06:04+02:00"
+      "last_modified": "2021-06-17T18:20:55+02:00"
     }
   ],
   "collections": []

@@ -1,7 +1,7 @@
 ---
-title: "My Website 2.0"
+title: "Eigene Artikel"
 description: |
-  Herzlich willkommen auf meiner Website 2.0!
+  Eine Liste an eigen verfassen Artikeln zu unterschidelichen Themen
 site: distill::distill_website
 ---
 
