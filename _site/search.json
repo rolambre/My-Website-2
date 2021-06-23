@@ -6,7 +6,7 @@
       "description": "Hier findest du Infos zur Kontaktaufnahme, Adressen und andere wichtige Infos",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-06-17T18:20:51+02:00"
+      "last_modified": "2021-06-23T08:49:01+02:00"
     },
     {
       "path": "analyse.html",
@@ -14,7 +14,7 @@
       "description": "Hier findest du Analysen der Datensaetze\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-06-17T18:20:52+02:00"
+      "last_modified": "2021-06-23T08:49:01+02:00"
     },
     {
       "path": "artikel_dritter.html",
@@ -22,7 +22,7 @@
       "description": "Eine Liste an Artikeln Dritter\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-06-17T18:20:53+02:00"
+      "last_modified": "2021-06-23T08:49:02+02:00"
     },
     {
       "path": "datensaetze.html",
@@ -30,7 +30,7 @@
       "description": "Hier findest du verschiedene Datensaetze\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-06-17T18:20:53+02:00"
+      "last_modified": "2021-06-23T08:49:02+02:00"
     },
     {
       "path": "eigene_artikel.html",
@@ -38,15 +38,15 @@
       "description": "Eine Liste an eigen verfassen Artikeln zu unterschidelichen Themen\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-06-17T18:20:54+02:00"
+      "last_modified": "2021-06-23T08:49:03+02:00"
     },
     {
       "path": "index.html",
       "title": "My Website 2.0",
       "description": "Herzlich willkommen auf meiner Website 2.0!\n",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-06-17T18:20:55+02:00"
+      "contents": "\nInhalte der Website:\nDatenanalysen\nArtikel\nDatensätze\n\n\n\n",
+      "last_modified": "2021-06-23T08:49:04+02:00"
     }
   ],
   "collections": []

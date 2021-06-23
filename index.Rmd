@@ -13,3 +13,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+# Inhalte der Website:
+
+### Datenanalysen
+### Artikel
+### Datensätze
